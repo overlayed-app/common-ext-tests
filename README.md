@@ -9,7 +9,7 @@ There are some tests that all extensions should run to ensure that overlayed wil
 
 ## How
 
-`npm i @overlayed-app/common-ext-tests`
+`npm i -D @overlayed-app/common-ext-tests`
 
 Then, in code (if `js`):
 
