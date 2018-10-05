@@ -1,6 +1,6 @@
 {
   "name": "@overlayed-app/common-ext-tests",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "common extension tests for an overlayed app extension",
   "main": "dist/index.js",
   "scripts": {
