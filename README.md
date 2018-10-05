@@ -9,7 +9,7 @@ There are some tests that all extensions should run to ensure that overlayed wil
 
 ## How
 
-`npm i @overlayed-app/common-ext-tests`
+ `npm i -D @overlayed-app/common-ext-tests`
 
 Then, in code (if `js`):
 
@@ -35,6 +35,8 @@ includeCommonTests(`${__dirname}/fixture`)
 + To publish `npm run publish`.
 + To test `npm test`.
 
-## License
+## Authors
+Ben Greenier - Initial work - [bengreenier](https://github.com/bengreenier)
 
-MIT
+## License
+Common-ext-tests is licensed under the MIT License - [Click here for details](https://github.com/overlayed-app/common-ext-tests/blob/master/LICENSE)
