@@ -1,4 +1,5 @@
 # common-ext-tests
+
 [![Build Status](https://travis-ci.org/overlayed-app/common-ext-tests.svg?branch=master)](https://travis-ci.org/overlayed-app/common-ext-tests)
 
 Common extension tests for overlayed app extensions.
@@ -9,7 +10,7 @@ There are some tests that all extensions should run to ensure that overlayed wil
 
 ## How
 
- `npm i @overlayed-app/common-ext-tests -D`
+`npm i -D @overlayed-app/common-ext-tests`
 
 Then, in code (if `js`):
 
@@ -36,7 +37,9 @@ includeCommonTests(`${__dirname}/fixture`)
 + To test `npm test`.
 
 ## Authors
+
 Ben Greenier - Initial work - [bengreenier](https://github.com/bengreenier)
 
 ## License
+
 Common-ext-tests is licensed under the MIT License - [Click here for details](https://github.com/overlayed-app/common-ext-tests/blob/master/LICENSE)
