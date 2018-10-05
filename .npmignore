@@ -2,6 +2,7 @@
 jest.config.js
 tsconfig.json
 tslint.json
+.travis.yml
 
 src/
 test/
